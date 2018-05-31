@@ -1,0 +1,1 @@
+d.txt is the fourth file.

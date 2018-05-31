@@ -1,0 +1,14 @@
+1>------ Rebuild All started: Project: Ex12-1, Configuration: Debug Win32 ------
+1>Deleting intermediate and output files for project 'Ex12-1', configuration 'Debug|Win32'
+1>Compiling...
+1>Ex12-1.cpp
+1>Compiling manifest to resources...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Linking...
+1>Embedding manifest...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Build log was saved at "file://f:\2012年写书\例题\第十二章\Ex12-1\Debug\BuildLog.htm"
+1>Ex12-1 - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

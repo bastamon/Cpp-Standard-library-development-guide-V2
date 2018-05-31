@@ -1,0 +1,15 @@
+1>------ Rebuild All started: Project: Ex13-19, Configuration: Debug Win32 ------
+1>Deleting intermediate and output files for project 'Ex13-19', configuration 'Debug|Win32'
+1>Compiling...
+1>Ex13-19.cpp
+1>Compiling manifest to resources...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Linking...
+1>LINK : F:\2012年写书\例题\第十三章\Ex13-19\Debug\Ex13-19.exe not found or not built by the last incremental link; performing full link
+1>Embedding manifest...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Build log was saved at "file://f:\2012年写书\例题\第十三章\Ex13-19\Ex13-19\Debug\BuildLog.htm"
+1>Ex13-19 - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
